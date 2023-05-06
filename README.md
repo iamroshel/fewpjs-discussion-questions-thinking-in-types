@@ -1,5 +1,5 @@
 # Discussion Questions: Thinking in Types
-
+ c
 ## Objectives
 
 - Recall the datatypes in JavaScript
